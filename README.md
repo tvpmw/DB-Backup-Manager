@@ -7,4 +7,5 @@ Panduan :
 3. Silahkan mengubah untuk credential MySQL sesuai config kalian
 4. Saya menggunakan Google Drive FStream untuk sinkronisasi upload Ke Google Drive https://www.google.com/intl/id_id/drive/download/
 
-Silahkan digunakan dan kembangkan 😉 jika digunakan untuk referensi mungkin bisa disertakan credit Terimakasih 📌
+Silahkan digunakan dan kembangkan 😉
+Jika digunakan untuk referensi mungkin bisa disertakan credit Terimakasih 📌
